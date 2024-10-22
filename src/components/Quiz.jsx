@@ -145,7 +145,7 @@ const Quiz = () => {
       }
 
       const response = await fetch(
-        "https://quiz-app-student-test.vercel.app/api/quiz/random?count=5",
+        "https://quiz-app-student-test.vercel.app/api/quiz/random?count=45",
         {
           method: "GET",
           headers: {
