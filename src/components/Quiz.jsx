@@ -289,7 +289,7 @@ const Quiz = () => {
     switch (step) {
       case "info":
         return (
-          <div className="bg-white shadow-md rounded flex items-center justify-center flex-col h-max lg:h-screen py-14 lg:py-0 px-[35px] lg:px-0">
+          <div className="bg-white shadow-md rounded flex items-center justify-center flex-col h-max lg:h-screen py-14 lg:py-0 px-[35px] lg:px-16">
             <img
               src="/logo.png"
               alt=""
